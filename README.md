@@ -4,7 +4,7 @@ This is a repository for the final project of MIT 15.570, which is a course offe
 by [professor Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-aral). 
 
 Our final project involves analyzing demographic and behavioral data of High Note (a music service platform) to recommend 
-actionable strategies to convert free users to premium subscribers. 
+actionable strategies to **convert free users to premium subscribers**. 
 
 ## Team Members 
 
